@@ -1,0 +1,69 @@
+name: GymOS CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    name: Build, format, and test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out source code
+        uses: actions/checkout@v6
+
+      - name: Set up .NET 8
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Restore domain tests
+        run: dotnet restore tests/GymOS.Domain.Tests/GymOS.Domain.Tests.csproj
+
+      - name: Restore API tests
+        run: dotnet restore tests/GymOS.Api.Tests/GymOS.Api.Tests.csproj
+
+      - name: Build domain tests
+        run: dotnet build tests/GymOS.Domain.Tests/GymOS.Domain.Tests.csproj --configuration Release --no-restore
+
+      - name: Build API tests
+        run: dotnet build tests/GymOS.Api.Tests/GymOS.Api.Tests.csproj --configuration Release --no-restore
+
+      - name: Verify domain formatting
+        run: dotnet format src/GymOS.Domain/GymOS.Domain.csproj --verify-no-changes --no-restore
+
+      - name: Verify contracts formatting
+        run: dotnet format src/GymOS.Contracts/GymOS.Contracts.csproj --verify-no-changes --no-restore
+
+      - name: Verify API formatting
+        run: dotnet format src/GymOS.Api/GymOS.Api.csproj --verify-no-changes --no-restore
+
+      - name: Run domain tests
+        run: dotnet test tests/GymOS.Domain.Tests/GymOS.Domain.Tests.csproj --configuration Release --no-build
+
+      - name: Run API tests
+        run: dotnet test tests/GymOS.Api.Tests/GymOS.Api.Tests.csproj --configuration Release --no-build
+
+  secret-scan:
+    name: Scan for secrets
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out complete Git history
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Scan for leaked secrets
+        uses: gitleaks/gitleaks-action@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

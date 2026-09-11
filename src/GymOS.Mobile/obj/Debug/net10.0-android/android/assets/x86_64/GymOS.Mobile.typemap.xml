@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="GymOS.Mobile" mvid="e969fec1168246f2a62b963f90328045">
+<api type="debug" assembly-name="GymOS.Mobile" mvid="5793d7a3aaf3434cb9c91e481c5a46ce">
   <java-to-managed>
     <entry java-name="crc64e8c8905bdae9ebe1/MainActivity" managed-name="GymOS.Mobile.MainActivity, GymOS.Mobile" managed-type-token-id="33554441" />
     <entry java-name="crc64e8c8905bdae9ebe1/MainApplication" managed-name="GymOS.Mobile.MainApplication, GymOS.Mobile" managed-type-token-id="33554442" />

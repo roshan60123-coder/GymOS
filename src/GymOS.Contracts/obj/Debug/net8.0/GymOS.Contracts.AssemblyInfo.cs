@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GymOS.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5df287d0a8e6c5acb1794208bdc18baa2b53ce3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36b56cfae7eee011051605c557cf2f07fe3d9149")]
 [assembly: System.Reflection.AssemblyProductAttribute("GymOS.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GymOS.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
