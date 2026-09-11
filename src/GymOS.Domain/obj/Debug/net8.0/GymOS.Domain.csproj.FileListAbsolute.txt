@@ -1,0 +1,11 @@
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\bin\Debug\net8.0\GymOS.Domain.deps.json
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\bin\Debug\net8.0\GymOS.Domain.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\bin\Debug\net8.0\GymOS.Domain.pdb
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\obj\Debug\net8.0\GymOS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\obj\Debug\net8.0\GymOS.Domain.AssemblyInfoInputs.cache
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\obj\Debug\net8.0\GymOS.Domain.AssemblyInfo.cs
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\obj\Debug\net8.0\GymOS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\obj\Debug\net8.0\GymOS.Domain.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\obj\Debug\net8.0\refint\GymOS.Domain.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\obj\Debug\net8.0\GymOS.Domain.pdb
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Domain\obj\Debug\net8.0\ref\GymOS.Domain.dll
