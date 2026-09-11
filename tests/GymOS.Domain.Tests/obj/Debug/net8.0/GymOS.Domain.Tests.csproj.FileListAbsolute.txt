@@ -94,6 +94,7 @@ C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Domain.Tests\obj\Debug\net8.0
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Domain.Tests\obj\Debug\net8.0\GymOS.Domain.Tests.AssemblyInfoInputs.cache
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Domain.Tests\obj\Debug\net8.0\GymOS.Domain.Tests.AssemblyInfo.cs
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Domain.Tests\obj\Debug\net8.0\GymOS.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Domain.Tests\obj\Debug\net8.0\GymOS.Domain.Tests.sourcelink.json
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Domain.Tests\obj\Debug\net8.0\GymOS.Do.7B839EBC.Up2Date
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Domain.Tests\obj\Debug\net8.0\GymOS.Domain.Tests.dll
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Domain.Tests\obj\Debug\net8.0\refint\GymOS.Domain.Tests.dll

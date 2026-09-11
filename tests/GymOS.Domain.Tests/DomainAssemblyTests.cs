@@ -1,5 +1,3 @@
-using GymOS.Domain;
-
 namespace GymOS.Domain.Tests;
 
 public class DomainAssemblyTests

@@ -5,6 +5,7 @@ C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Contracts\obj\Debug\net8.0\GymO
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Contracts\obj\Debug\net8.0\GymOS.Contracts.AssemblyInfoInputs.cache
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Contracts\obj\Debug\net8.0\GymOS.Contracts.AssemblyInfo.cs
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Contracts\obj\Debug\net8.0\GymOS.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Contracts\obj\Debug\net8.0\GymOS.Contracts.sourcelink.json
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Contracts\obj\Debug\net8.0\GymOS.Contracts.dll
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Contracts\obj\Debug\net8.0\refint\GymOS.Contracts.dll
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Contracts\obj\Debug\net8.0\GymOS.Contracts.pdb

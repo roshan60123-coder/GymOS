@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GymOS.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36b56cfae7eee011051605c557cf2f07fe3d9149")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c00aefceae58b425c848b2f8499e8f073ef0f400")]
 [assembly: System.Reflection.AssemblyProductAttribute("GymOS.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GymOS.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

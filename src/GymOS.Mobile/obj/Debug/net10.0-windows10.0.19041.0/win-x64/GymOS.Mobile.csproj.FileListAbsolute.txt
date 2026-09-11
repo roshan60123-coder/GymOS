@@ -175,6 +175,7 @@ C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Mobile\obj\Debug\net10.0-window
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\GymOS.Mobile.AssemblyInfoInputs.cache
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\GymOS.Mobile.AssemblyInfo.cs
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\GymOS.Mobile.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\GymOS.Mobile.sourcelink.json
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlC.stamp
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\GymOS.Mo.CA4E5E51.Up2Date
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\GymOS.Mobile.dll

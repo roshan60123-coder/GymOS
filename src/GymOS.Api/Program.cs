@@ -18,6 +18,7 @@ app.MapGet("/health/ready", () => Results.Ok(new
 
 app.Run();
 
+/// <inheritdoc/>
 public partial class Program
 {
 }

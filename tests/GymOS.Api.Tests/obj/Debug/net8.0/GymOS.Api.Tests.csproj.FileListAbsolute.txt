@@ -4,6 +4,7 @@ C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\bin\Debug\net8.0\Gy
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\bin\Debug\net8.0\GymOS.Api.runtimeconfig.json
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\bin\Debug\net8.0\appsettings.json
+C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\bin\Debug\net8.0\GymOS.Api.staticwebassets.endpoints.json
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\bin\Debug\net8.0\GymOS.Api.exe
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\bin\Debug\net8.0\testhost.exe
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -108,10 +109,10 @@ C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\Gy
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\GymOS.Api.Tests.AssemblyInfoInputs.cache
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\GymOS.Api.Tests.AssemblyInfo.cs
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\GymOS.Api.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\GymOS.Api.Tests.sourcelink.json
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\GymOS.Ap.29DC6C2F.Up2Date
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\GymOS.Api.Tests.dll
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\refint\GymOS.Api.Tests.dll
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\GymOS.Api.Tests.pdb
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\GymOS.Api.Tests.genruntimeconfig.cache
 C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\obj\Debug\net8.0\ref\GymOS.Api.Tests.dll
-C:\Users\Roshan Singh\Downloads\Gymfit\tests\GymOS.Api.Tests\bin\Debug\net8.0\GymOS.Api.staticwebassets.endpoints.json

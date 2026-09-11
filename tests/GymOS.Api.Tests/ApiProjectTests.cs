@@ -1,5 +1,3 @@
-using Xunit;
-
 namespace GymOS.Api.Tests;
 
 public class ApiProjectTests

@@ -1,0 +1,5 @@
+# Local secrets and developer-specific configuration
+.env
+.env.*
+!.env.example
+appsettings.Development.local.json
