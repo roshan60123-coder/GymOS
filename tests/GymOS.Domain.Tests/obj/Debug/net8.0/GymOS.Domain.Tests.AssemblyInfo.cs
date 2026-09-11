@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GymOS.Domain.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c00aefceae58b425c848b2f8499e8f073ef0f400")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+213e4fea7b3d20b7d875d9d89cd48ebe71d3d945")]
 [assembly: System.Reflection.AssemblyProductAttribute("GymOS.Domain.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GymOS.Domain.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

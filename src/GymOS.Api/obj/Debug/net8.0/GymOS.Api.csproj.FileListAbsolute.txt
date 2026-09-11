@@ -39,3 +39,11 @@ C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\obj\Debug\net8.0\refint\Gym
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\obj\Debug\net8.0\GymOS.Api.pdb
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\obj\Debug\net8.0\GymOS.Api.genruntimeconfig.cache
 C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\obj\Debug\net8.0\ref\GymOS.Api.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Roshan Singh\Downloads\Gymfit\src\GymOS.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
